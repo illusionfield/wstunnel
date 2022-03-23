@@ -1,19 +1,19 @@
 {
   "name": "wstunnel",
-  "version": "1.4.0",
-  "description": "tunnel over websocket",
+  "version": "1.4.1",
+  "description": "udp tunnel over websocket",
   "main": "./lib/wst.js",
   "scripts": {
     "test": "mocha test/test.js",
     "testssh": "mocha test/testssh.js",
     "prettier": "prettier --write ."
   },
-  "repository": "https://github.com/mhzed/wstunnel",
+  "repository": "https://github.com/illusionfield/wstunnel",
   "author": {
-    "name": "zed",
-    "email": "mhzedd@gmail.com"
+    "name": "illusionfield",
+    "email": "illusionfield@gmail.com"
   },
-  "homepage": "https://github.com/mhzed/wstunnel",
+  "homepage": "https://github.com/illusionfield/wstunnel",
   "keywords": [
     "websocket",
     "tunnel"
