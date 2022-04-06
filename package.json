@@ -39,6 +39,6 @@
     "mocha": "^8.1.2"
   },
   "bin": {
-    "wstunnel": "./bin/wstt.js"
+    "wstunnel-udp": "./bin/wstt.js"
   }
 }
